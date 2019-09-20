@@ -1,0 +1,16 @@
+{
+  "name": "awsassignment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless": "^1.52.0"
+  },
+  "devDependencies": {
+    "serverless-plugin-ifelse": "^1.0.5"
+  }
+}
